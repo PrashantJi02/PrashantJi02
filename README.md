@@ -1,6 +1,6 @@
 ##
 
-![Eye](./eye.svg)
+![Simon POV](./simon-pov-v2.gif)
 
 <!--
 **PrashantJi02/PrashantJi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
