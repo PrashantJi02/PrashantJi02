@@ -1,6 +1,6 @@
 ##
 
-![Simon POV](./simon-pov-v2.gif)
+![Simon POV](./Simon-POV-v2-with-buildings-and-eye.gif)
 
 <!--
 **PrashantJi02/PrashantJi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
